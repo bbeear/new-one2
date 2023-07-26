@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Administrator\CLionProjects\base -B C:\Users\Administrator\CLionProjects\base\cmake-build-debug
+    -- src/main.cpp will be compiled to bin/main
+    -- src/test.cpp will be compiled to bin/test
+    -- src/test2.cpp will be compiled to bin/test2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Administrator/CLionProjects/base/cmake-build-debug
